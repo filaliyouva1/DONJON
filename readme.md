@@ -5,7 +5,7 @@
 **DonJon** (en anglais **Dungeon**) signifie en réalité *cachot*. En résumé, le **DonJon** est une forme de lieu clos composé de plusieurs chambres ou le jouer doit chercher l'exit. Le joueur commence dans une chambre ou il y a un ou plusieurs monstres, objets et issus, le joueur peut changer de chambre qu'après avoir tué tous les monstres et utiliser tous les objets. Le jeu finit lorsque le jouer atteigne une chambre spécial appellé **Exit Room** ou lorsqu'il meurt.
 
 ## How To:
-Pour utiliser le projet:
+Pour utiliser le projet avec Maven :
 
 
 `
